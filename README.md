@@ -44,6 +44,10 @@ Files included in the zip folder:
 	|_ StackNinja2.bmp
 
 	|_ StackNinja3.bmp
+	
+	|_Example Result.png
 
 # Example Result:
 
+<img src="CW_images/StackNinja1.bmp" width="400" />
+<img src="CW_images/Exmaple Result.png.bmp" width="400" />
