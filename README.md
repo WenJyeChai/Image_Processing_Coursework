@@ -50,4 +50,4 @@ Files included in the zip folder:
 # Example Result:
 
 <img src="CW_images/StackNinja1.bmp" width="400" />
-<img src="CW_images/Exmaple Result.png.bmp" width="400" />
+<img src="CW_images/Example Result.png" width="400" />
