@@ -1,11 +1,20 @@
 
-Coursework: “Extracting & Analyzing Cell Nuclei”
+# Coursework: “Extracting & Analyzing Cell Nuclei”
 
-Name : Chai Wen Jye
-Student ID : 20113681
-Module : COMP2032 - Introduction to Image Processing
-Module Convenor : Dr. Amr Ahmed
+- Name : Chai Wen Jye
+- Student ID : 20113681
+- Module : COMP2032 - Introduction to Image Processing
+- Module Convenor : Dr. Amr Ahmed
 
+# Objective
+
+- Design a solution, and implment it in a Matlab program, that accpets a microscopic images as an input and outputs:
+
+	- Binary image marking regions corresponding to nuclei.
+	- Total count of nuclei detected in each image.
+	- Analysis of the detected nuclei regarding their sizes, shapes and signal intensity
+
+# Instruction
 To run the Matlab code:
 
 1) Unzip and extract the repositories into preferred directories
@@ -36,5 +45,5 @@ Files included in the zip folder:
 
 	|_ StackNinja3.bmp
 
-Example Result:
+# Example Result:
 
