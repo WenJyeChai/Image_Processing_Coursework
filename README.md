@@ -49,5 +49,5 @@ Files included in the zip folder:
 
 # Example Result:
 
-<img src="CW_images/StackNinja1.bmp" width="400" />
-<img src="CW_images/Example Result.png" width="400" />
+<img src="CW_images/StackNinja1.bmp" width="600" />
+<img src="CW_images/Example Result.png"  width="600" />
